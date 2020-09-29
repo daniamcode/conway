@@ -6,7 +6,7 @@ Presentation: https://www.youtube.com/watch?v=ldgrbscuLKc
 
 ## Available Scripts
 
-Just open the index.html
+Just open the index.html in your browser.
 
 ### The Game
 
