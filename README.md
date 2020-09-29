@@ -1,6 +1,6 @@
 # Conway's Game of Life - Simple Game with Vanilla JavaScript, HTML and CSS
 
-I made this game in two days at the beginning of the Bootcamp that took place at _Skylab Coders Academy_ (Barcelona) from the 6th of July to the 25th of September of 2020.
+I made this game in a weekend at the beginning of the Bootcamp that took place at _Skylab Coders Academy_ (Barcelona) from the 6th of July to the 25th of September of 2020.
 
 Presentation: https://www.youtube.com/watch?v=ldgrbscuLKc
 
